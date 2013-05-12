@@ -14,7 +14,6 @@ public class StringUtilities {
 	 * digits (ASCII code 48-57), upper case (65-90), lower-case letters (97-122) and space (32).
 	 * It keeps the accents.
 	 * @param in
-	 * @param keepAccents
 	 * @return
 	 */
     public static String normalize(String in) {

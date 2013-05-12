@@ -185,7 +185,7 @@ public class Bot implements IRCEventListener {
 			public void run(IRCEvent e) {
 				JoinCompleteEvent jce = (JoinCompleteEvent) e;
 				if (jce.getChannel().getName().equals(channel)) {
-					/* say hello and version number */
+					/* say hello */
 					jce.getChannel().say("hi!");
 				}
 			}
