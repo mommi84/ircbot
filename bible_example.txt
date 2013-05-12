@@ -1,0 +1,4 @@
+Sunday, 12 May 2013
+[10:00:00] Mr Bot: this is an example of history
+[10:00:01] Mr Bot: which will be the training set
+[10:00:02] Mr Bot: of your bot.
